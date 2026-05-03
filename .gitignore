@@ -1,0 +1,40 @@
+# Qt build folders
+build/
+debug/
+release/
+
+# Qt generated files
+*.o
+*.obj
+Makefile
+Makefile.*
+*.exe
+*.dll
+*.a
+*.lib
+*.prl
+*.qm
+
+# Qt Creator files
+*.pro.user
+*.pro.user.*
+.qmake.stash
+.qmake.cache
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Object files
+*.obj
+*.o
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code / other editors
+.vscode/
+.idea/
+*.swp
+*.swo
